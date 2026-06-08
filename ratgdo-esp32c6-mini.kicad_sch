@@ -8109,7 +8109,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ESP32-C6-MINI-1/U"
+		(property "Value" "ESP32-C6-MINI"
 			(at 65.6433 121.92 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9971,7 +9971,7 @@
 				)
 			)
 		)
-		(property "Value" "USB_C_Receptacle_USB2.0_14P"
+		(property "Value" "USB_C_2.0"
 			(at 36.83 24.13 0)
 			(show_name no)
 			(do_not_autoplace no)
