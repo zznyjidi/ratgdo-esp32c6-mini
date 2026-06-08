@@ -8360,6 +8360,66 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text " 5V"
+		(at 168.78 96.9 0)
+		(layer "B.SilkS")
+		(uuid "54c76916-0829-421e-87b1-4f3bd51e157a")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text " GND"
+		(at 168.78 99.44 0)
+		(layer "B.SilkS")
+		(uuid "abc4acb7-c9da-4b2e-8215-7d4b3f640758")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GND(W) "
+		(at 146.89 95.37 0)
+		(layer "B.SilkS")
+		(uuid "e4df9359-2cd1-4b43-9a4a-af65476ab4bb")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.1)
+			)
+			(justify right bottom mirror)
+		)
+	)
+	(gr_text "CTRL(R) "
+		(at 146.89 97.87 0)
+		(layer "B.SilkS")
+		(uuid "4ae725ed-9fb0-4a31-a18d-1af569fb9afc")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.1)
+			)
+			(justify right bottom mirror)
+		)
+	)
+	(gr_text "OBST(B) "
+		(at 146.89 100.37 0)
+		(layer "B.SilkS")
+		(uuid "f69292f4-f3d9-4e8e-b20a-4e355a0a1320")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.1)
+			)
+			(justify right bottom mirror)
+		)
+	)
 	(segment
 		(start 164.2925 95.5)
 		(end 164.3425 95.55)
